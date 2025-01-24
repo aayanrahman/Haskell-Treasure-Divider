@@ -10,8 +10,20 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@fontsource/pirata-one": "^5.1.1",
+    "@neon-js/core": "^0.1.2",
+    "@types/styled-components": "^5.1.34",
+    "axios": "^1.7.9",
+    "framer-motion": "^12.0.5",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.4.0",
+    "react-tsparticles": "^2.12.2",
+    "styled-components": "^6.1.14",
+    "tsparticles": "^3.8.0",
+    "tsparticles-slim": "^2.12.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

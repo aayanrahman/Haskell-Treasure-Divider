@@ -1,0 +1,10 @@
+@keyframes hologramScan {
+    0% { left: -100%; }
+    100% { left: 200%; }
+  }
+  
+  @keyframes neonPulse {
+    0% { filter: drop-shadow(0 0 5px #00f3ff); }
+    50% { filter: drop-shadow(0 0 20px #00f3ff); }
+    100% { filter: drop-shadow(0 0 5px #00f3ff); }
+  }
